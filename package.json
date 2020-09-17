@@ -1,0 +1,10 @@
+{
+  "name": "imessage-spammer",
+  "version": "1.0.0",
+  "description": "Spam an iMessage account using Messages on a MacOS device",
+  "main": "spammer.js",
+  "repository": "https://github.com/Jahans3/imessage-spammer.git",
+  "author": "Josh Jahans <josh.jahans3@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
